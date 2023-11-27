@@ -56,27 +56,3 @@ char	**ft_split(char *str)
 	tab[j] = NULL;
 	return (tab);
 }
-//#include <stdio.h>
-
-/*int main(void)
-{
-	char tab[] = "salut ca va";
-	char *dest = ft_strndup(tab, 5);
-	printf("%s", dest);
-	free (dest);
-	return (0);
-} */
-
-/* int	main(void)
-{
-	char	*str = "ceci est un test !";
-	char	**fct = ft_split(str);
-	int	i;
-	
-	for (i = 0; i < count_words(str); i++)
-	{
-		printf("%s\n", fct[i] );
-	}
-	free (fct);
-	return (0);
-}  */
