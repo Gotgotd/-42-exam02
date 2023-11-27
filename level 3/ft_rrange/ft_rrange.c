@@ -18,18 +18,3 @@ int	*ft_rrange(int start, int end)
 	}
 	return(tab);
 }
-/* #include <stdio.h>
-
-int	main(void)
-{
-	int start = 0;
-	int	end = 0;
-	int	*tab = ft_rrange(start, end);
-	int i = 0;
-	while (i <= (end - start))
-	{
-		printf("%i\n", tab[i]);
-		i++;
-	}
-	return (0);
-} */
