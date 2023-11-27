@@ -1,4 +1,4 @@
-**SUBJECT**
+# SUBJECT
 ```
 Assignment name  : fizzbuzz
 Expected files   : fizzbuzz.c
