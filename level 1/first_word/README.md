@@ -1,4 +1,4 @@
-**SUBJECT**
+# SUBJECT
 ```
 Assignment name  : first_word
 Expected files   : first_word.c
